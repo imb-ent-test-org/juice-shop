@@ -96,6 +96,8 @@ For a detailed introduction, full list of features and architecture overview ple
 > `libxmljs` bound to the OS and node.js version which `npm install` was
 > executed on.
 
+Minor change.
+
 ### Docker Container
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://hub.docker.com/r/bkimminich/juice-shop)
